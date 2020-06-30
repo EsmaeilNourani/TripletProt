@@ -1,0 +1,4 @@
+#Reference of the dataset
+
+Tung,C.-H. et al. (2017) Predicting human protein subcellular localization by heterogeneous and comprehensive approaches. PLoS ONE, 12, e0178832.
+

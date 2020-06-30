@@ -1,0 +1,7 @@
+#Reference of the dataset
+
+Shen,Y. et al. (2019) Identification of protein subcellular localization via integrating evolutionary and physicochemical information into Chou’s general PseAAC. Journal of Theoretical Biology, 462, 230–239.
+
+We have used the following files:
+
+dataset_3106.mat

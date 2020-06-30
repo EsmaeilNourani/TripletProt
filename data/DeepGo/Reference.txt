@@ -1,0 +1,13 @@
+#Reference of the dataset from DeepGO
+# ! tar -xvzf  CAFA3_training_data/data12G/data/train.tar.gz
+
+We have used the following files:
+
+test-bp.pkl
+test-cc.pkl
+test-mf.pkl
+
+train-bp.pkl
+train-cc.pkl
+train-mf.pkl
+
