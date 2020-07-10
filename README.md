@@ -18,6 +18,18 @@ train-bp.pkl
 train-cc.pkl
 train-mf.pkl
 
++ sub-cellular localization
+
+Multi Kernel SVM : 
+
+Shen, Y., Tang, J. and Guo, F., 2019. Identification of protein subcellular localization via integrating evolutionary and physicochemical information into Chou’s general PseAAC. Journal of Theoretical Biology, 462, pp.230-239.
+
+REALoc:
+
+http://predictor.nchu.edu.tw/REALoc/S1_dataset.zip
+
+
+
 
 
 
