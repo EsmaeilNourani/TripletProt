@@ -20,10 +20,10 @@ train-mf.pkl
 
 + sub-cellular localization
 
-Multi Kernel SVM [1]
+++ Multi Kernel SVM [1]
 
 
-REALoc [2] http://predictor.nchu.edu.tw/REALoc/S1_dataset.zip
+++ REALoc [2] http://predictor.nchu.edu.tw/REALoc/S1_dataset.zip
 
 
 # References:
