@@ -20,7 +20,8 @@ Deep Representation Learning of Proteins based on Siamese Networks
 ## Execution
 
 1. Unzip the files located in [`pickle files`](/data/pickles) to get the String IDs of proteins and Unirep embeddings  
-2. 
+2. Use [`sample visuaization notebook`]( /Applications/subcellular_location/TripletProt_vs_REALoc/t-SNE_Visualization.ipynb) to generate TripletProt Embeddings
+
 ## References:
 
   + [1] Shen, Y., Tang, J. and Guo, F., 2019. Identification of protein subcellular localization via integrating evolutionary and physicochemical information into Chou’s general PseAAC. Journal of Theoretical Biology, 462, pp.230-239.
