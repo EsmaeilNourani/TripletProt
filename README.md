@@ -17,7 +17,11 @@ Deep Representation Learning of Proteins based on Siamese Networks
   * REALoc [2] http://predictor.nchu.edu.tw/REALoc/S1_dataset.zip
 
 
-# References:
+## Execution
+
+1. Unzip the files located in [`pickle files`](/data/pickles) to get the String IDs of proteins and Unirep embeddings  
+2. 
+## References:
 
   + [1] Shen, Y., Tang, J. and Guo, F., 2019. Identification of protein subcellular localization via integrating evolutionary and physicochemical information into Chou’s general PseAAC. Journal of Theoretical Biology, 462, pp.230-239.
 
