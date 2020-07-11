@@ -6,18 +6,16 @@ Deep Representation Learning of Proteins based on Siamese Networks
 We evaluate TripletProt in protein annotation tasks including sub-cellular localization and gene ontology prediction, which are both multi-class multi-label classification machine learning problems.
 
 ### Data
-#### Function Prediction : http://deepgoplus.bio2vec.net/data/deepgo/data.tar.gz
+* Function Prediction : http://deepgoplus.bio2vec.net/data/deepgo/data.tar.gz
 
-* We have used the following files:
-  * test-bp.pkl, test-cc.pkl , test-mf.pkl
-  * train-bp.pkl, train-cc.pkl, train-mf.pkl
+  * We have used the following files:
+    * test-bp.pkl, test-cc.pkl , test-mf.pkl
+    * train-bp.pkl, train-cc.pkl, train-mf.pkl
 
-#### sub-cellular localization
+* sub-cellular localization
 
-+ Multi Kernel SVM [1]
-
-
-+ REALoc [2] http://predictor.nchu.edu.tw/REALoc/S1_dataset.zip
+  * Multi Kernel SVM [1]
+  * REALoc [2] http://predictor.nchu.edu.tw/REALoc/S1_dataset.zip
 
 
 # References:
